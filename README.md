@@ -10,5 +10,6 @@
 
 1.  git clone 项目地址    【克隆项目到本地】
 2.  go mod tidy          【需要重新加载一些第三方的依赖库】
-3.  go build main.go     【重新打包成可执行文件main，注意：如果是仅仅在本地做调试，可以用 go run main.go 直接执行该文件】
+3.  go build main.go     【重新打包成可执行文件main】
 
+大家的star就是对我最大的支持哦 :stuck_out_tongue_winking_eye:
